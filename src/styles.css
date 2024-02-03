@@ -4,7 +4,23 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: white;
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/113/562/original/Space-Background-Image-8.jpg?1706981902);
+  background-size: cover;
+  background-position: center top;
+}
+
+p {
+  color: #b7b9f4;
+  text-align: center;
+}
+
+a {
+  color: #8983f3;
+}
+
+a:hover {
+  text-decoration: none;
+  background: #000278;
 }
 
 #calculator {
